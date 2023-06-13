@@ -11,4 +11,4 @@ You can then use the "b" key to initialize the bfs in the grid.
 
 The program then computes the path between the start and end node and give you the shortest path
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/SrimanCode/Maze-and-Path-Finding-Alogrithm)
-![Alt Text](https://github.com/SrimanCode/Path-Finding-Algorithm/blob/main/Screenshot%202023-05-20%20174048.png)
+![Alt Text](https://github.com/SrimanCode/Maze-and-Path-Finding-Alogrithm/blob/main/Screenshot%202023-05-20%20174048.png)
