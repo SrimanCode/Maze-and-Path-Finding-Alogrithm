@@ -1,3 +1,6 @@
-networkx
-pygame
-pickle
+pygame==2.0.0
+time==1.0
+collections==2.33
+random==3.8.0
+pickle==5.0
+heapq==1.2.1
